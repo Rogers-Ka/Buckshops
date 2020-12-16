@@ -1,0 +1,15 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.78.1">
+    <title>Buck</title>
+
+
+    <!--This is mdb bootstrap5-->
+    <link rel="stylesheet" href="{% static "mdb/css/mdb.min.css" %}">
+    <script type="text/javascript" src="{% static "mdb/js/mdb.min.js" %}"></script>
